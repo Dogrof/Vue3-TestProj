@@ -1,0 +1,24 @@
+{
+  "linksData": [
+    {
+      "link": "/",
+      "name": "Account",
+      "icon": "person"
+    },
+    {
+      "link": "/billing",
+      "name": "Billing",
+      "icon": "credit_card"
+    },
+    {
+      "link": "/subscription",
+      "name": "Subscription",
+      "icon": "notifications"
+    },
+    {
+      "link": "/users",
+      "name": "Users",
+      "icon": "sell"
+    }
+  ]
+}

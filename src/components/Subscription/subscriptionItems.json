@@ -1,0 +1,24 @@
+{
+  "subscriptions": [
+    {
+      "heading": "Change plan",
+      "content": "If you want to adjust your plan, whether to access more features or reduce your usage for a month, this is the option for you. Click Change Plan to switch to a different plan that better suits your current needs.",
+      "icon": "check",
+      "actionText": "Change",
+      "btnType": "apply"
+    },
+    {
+      "heading": "Change plan",
+      "content": "If you need a temporary break, select Pause Subscription. Your profile will be hidden from the public, but all your information will be saved. When you're ready to return, you can easily reactivate your subscription.",
+      "icon": "pause_circle",
+      "actionText": "Pause"
+    },
+    {
+      "heading": "Change plan",
+      "content": "If you no longer wish to use our service, selecting Cancel Subscription will permanently delete your account and all associated data. You're welcome to sign up again anytime in the future.",
+      "icon": "block",
+      "actionText": "Cancel",
+      "btnType": "danger"
+    }
+  ]
+}
